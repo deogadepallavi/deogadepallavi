@@ -1,4 +1,4 @@
-👋 Hi, I’m @deogadepallavi!
+👋 Hi, I’m Pallavi!
 
 - 👀 I’m passionate about Software Development and love diving into new technologies and coding challenges
 - 🎓 I recently graduated with an MS in Information Systems from Northeastern University, Seattle
