@@ -2,7 +2,7 @@
 
 - 👀 I’m passionate about Software Development and love diving into new technologies and coding challenges
 - 🎓 I recently graduated with an MS in Information Systems from Northeastern University, Seattle
-- 💡 My interests include mobile and web development, cloud computing, and backend systems
+- 💡 My interests include cloud computing, backend systems, mobile and web development
 - 📫 Feel free to reach out to me at pallavideogade4@gmail.com
 
 Let's connect and innovate together! 🚀
